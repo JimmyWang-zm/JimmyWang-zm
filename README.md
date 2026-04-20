@@ -43,7 +43,7 @@ Tech stack:
 
 ---
 
-### 3) ME5406 Project 2 - Obstacle Avoidance Grasping (Personal Project)
+### 3) ME5406 Project 2 - Obstacle Avoidance Grasping
 Repository: https://github.com/Alex021126/me5406-project
 
 A deep reinforcement learning project for obstacle-avoidance grasping with a 3-DOF robot arm in MuJoCo.
